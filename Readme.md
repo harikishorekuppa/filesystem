@@ -27,9 +27,10 @@ Created a file factory to have definitions w.r.t file extension. Eg: TextFileCre
 		//TODO implement method to create a clone of from "file" 
 	}
 	
-#Sample-Output
-By default system assumes current directory as root with 1.txt and 2.txt files.
+#Sample-Output:<br>
+By default system assumes current directory as root with 1.txt and 2.txt files.<br>
 Run PalyFileSystem as Java Application.
+
 Instructions console output: 
 ----------------------------
 commands:<br>
